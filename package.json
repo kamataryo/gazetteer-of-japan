@@ -1,0 +1,12 @@
+{
+  "name": "gazetteer-of-japan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": "git@github.com:kamataryo/gazetteer-of-japan.git",
+  "author": "kamataryo <6292312+kamataryo@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "papaparse": "^5.4.1"
+  }
+}
